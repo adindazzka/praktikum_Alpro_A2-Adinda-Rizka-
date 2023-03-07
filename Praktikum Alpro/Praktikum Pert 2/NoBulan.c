@@ -6,8 +6,10 @@
 #include <stdlib.h>
 
 int main(){
+    
+//* Kamus *//
     int nomer;
-
+//* Algoritma*//
     printf("masukkan nomer bulan: ");
     scanf("%d", &nomer);
 
